@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+header{
+    background-color:lightblue;
+    color:white;
+    padding:20px;
+    display:flex;
+    justify-content: space-evenly;
+}
+#h1{
+    font-size: 48px;
+}
+header a{
+    font-size: 24px;
+    text-decoration: none;
+    color:white;
+}
+img{
+    height: 300px;
+    width: 270;
+}
+#i290{
+    background-color:rgb(2, 16, 50) ;
+    text-align: center;
+    color: white;
+}

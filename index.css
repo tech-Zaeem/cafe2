@@ -1,0 +1,52 @@
+header{
+    background-color:lightblue;
+    color:white;
+    padding:20px;
+    display:flex;
+    justify-content: space-evenly;
+}
+#h1{
+    font-size: 48px;
+}
+header a{
+    font-size: 24px;
+    text-decoration: none;
+    color:white;
+}
+#a{
+    text-align: center;
+    color: lightblue;
+    background-color: aquamarine;
+}
+.img1{?:.
+    height: 600px;
+    width: 100%;
+}
+.img2{
+    height: 600px;
+    width: 600px;
+}
+#first{
+    background: rgba(0, 255, 238, 0.866);
+    padding:20px;
+}
+tr h3{
+    font-size: 48px;
+    color:rgb(40, 3, 206);
+    padding: 40px;
+}
+tr p{
+    font-size: 36px;
+    padding: 40px;
+}
+#portal{
+    background-color:rgb(0, 255, 255);
+}
+#p1{
+    color: rgb(245, 118, 93);
+}
+#i290{
+    background-color:rgb(2, 16, 50) ;
+    text-align: center;
+    color: white;
+}
